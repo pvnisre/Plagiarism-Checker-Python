@@ -1,11 +1,10 @@
 # Plagiarism-Checker-Python
 This repository contains the source code for a Python script that detects plagiarism in textual documents using cosine similarity. 
-## How Does It Work?
 
+## How Does It Work?
 Plagiarism detection on textual data might sound complicated, but it's simpler than you think.
 
 #### 1. Text Transformation:
-
 Computers excel at processing numbers, so the first step involves converting textual data into numerical representations (vectors).
 
 #### 2. Vector Representation:
@@ -30,7 +29,6 @@ $ cd Plagiarism-Checker-Python
 $ python3 app.py  
 ```
 Results will be displayed in the terminal, showing the similarity scores between each pair of documents.
-
 #### Output Example:
 ```
 Plagiarism Detection Results  
